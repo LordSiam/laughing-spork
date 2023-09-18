@@ -1,2 +1,3 @@
 # laughing-spork
-HTML &amp; CSS
+
+HTML och CSS samt JavaScript
